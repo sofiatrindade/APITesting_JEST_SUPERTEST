@@ -1,0 +1,23 @@
+{
+  "name": "apitesting_jest_supertest",
+  "version": "1.0.0",
+  "description": "To easy test API requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofiatrindade/APITesting_JEST_SUPERTEST.git"
+  },
+  "author": "Sofia Trindade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofiatrindade/APITesting_JEST_SUPERTEST/issues"
+  },
+  "homepage": "https://github.com/sofiatrindade/APITesting_JEST_SUPERTEST#readme",
+  "devDependencies": {
+    "jest": "^25.2.4",
+    "supertest": "^4.0.2"
+  }
+}
